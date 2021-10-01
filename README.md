@@ -3,7 +3,7 @@
 - 💻 Técnica em Informática.
 - 👾 Cursando Certified Tech Developer / DH.
 - 📈 Co-founder Grupo Avenza.
-
+##
 <div>
   <a href="https://github.com/LuisaAndrade0607">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisaAndrade0607&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
