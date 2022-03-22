@@ -1,6 +1,6 @@
 ### Olá! Eu sou Luísa Andrade! 👋😊
 
-- 💻 Técnica em Informática.
+- 💻 Entusiasta em Informática.
 - 👾 Cursando Certified Tech Developer / DH.
 - 📈 Co-founder Grupo Avenza.
 ##
