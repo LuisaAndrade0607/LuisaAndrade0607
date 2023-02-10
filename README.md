@@ -2,7 +2,6 @@
 
 - 💻 Entusiasta em Informática.
 - 👾 Cursando Certified Tech Developer / DH.
-- 📈 Co-founder Grupo Avenza.
 ##
 <div>
   <a href="https://github.com/LuisaAndrade0607">
